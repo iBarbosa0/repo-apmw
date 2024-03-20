@@ -3,5 +3,25 @@ h1{
 }
 
 .location-color {
-    color: greenyellow;
+    color: lightgreen;
+}
+
+p{
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width: 2px;
+    padding: 5px;
+    color: orange;
+}
+
+body{
+    background-color: lightslategray;
+    margin: 0px;
+}
+
+#caixa-pai {
+    position: relative;
+    background-color: black;
+    width: 200vh;
+    height: 9vh;
 }
